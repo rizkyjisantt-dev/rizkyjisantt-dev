@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 <br/>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkyluxszerr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyluxszerr&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=rizkyjisantt&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjisantt&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 <a href = "https://www.linkedin.com/in/moch-rizki-2233b5221/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=jinkzprolimit@gmail.com&su=SUBJECT&body=BODY&bcc=jinkzprolimit@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/circled-envelope.png" width="45"/></a>
-<a href = "https://www.instagram.com/rizky_luxszerr/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/rizky_jisantt/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
