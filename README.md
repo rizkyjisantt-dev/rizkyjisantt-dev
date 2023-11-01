@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Stats:
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m Interested learning Machine Learning development </br>
+    - 🔭 I’m Interested learning Data Science development </br>
     - 🌱 I’m currently learning Javascript, Python, PHP and Sql </br>
     - 👯 I’m looking to collaborate with you. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
