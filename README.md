@@ -1,5 +1,5 @@
 # Hi there I’m Mochammad Rizki Aji Santoso👋
-I am currently an active student who is still learning new things in machine learning development programming such as Javascript, Sql, PHP, Python.
+I am currently an active student who is still learning new things in data science development programming such as Javascript, Sql, PHP, Python.
 
 I'm also still in the development of a PUBG Mobile pro player
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### Let's connect!
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/moch-rizki-2233b5221/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/moch-rizki/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=jinkzprolimit@gmail.com&su=SUBJECT&body=BODY&bcc=jinkzprolimit@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/circled-envelope.png" width="45"/></a>
 <a href = "https://www.instagram.com/rizky_jisantt/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
