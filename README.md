@@ -1,59 +1,33 @@
-# Hi there I’m Mochammad Rizki Aji Santoso👋
-I am currently an active student who is still learning new things in data science development programming such as Javascript, Sql, PHP, Python.
+Hi there, I’m Mochammad Rizki Aji Santoso 👋
 
-I'm also still in the development of a PUBG Mobile pro player
+I am a Data Analytics Enthusiast with a Bachelor's Degree in Informatics Engineering, actively seeking an entry-level position in Data Science or Machine Learning. I am proficient in Python, Excel, SQL, and machine learning techniques.
 
-<!--
-**rizkyluxszerr/rizkyluxszerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’ve gained valuable experience through Data Analytics training programs offered by Kampus Merdeka and other external institutions. I am passionate about using data to solve real-world problems and help organizations make data-driven decisions.
 
-Here are some ideas to get you started:
+I’m also involved in various student activities and community service, with strong computer and communication skills. I am eager to contribute to a dynamic and innovative company where I can continue learning and growing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stats:
+<summary><strong>What I am learning/working on these days</strong></summary> 
+- 🔭 Currently deepening my knowledge in Data Science and Machine Learning 
+- 🌱 Learning more advanced Python techniques and exploring data visualization tools 
+- 👯 Looking to collaborate with professionals and like-minded individuals 
+- 🤔 Always seeking advice on improving my skills in the field of Data Science 
+- 💬 Feel free to ask me anything related to Data Science, Python, or machine learning 
+- 📫 You can reach me via email: <a href="mailto:moch.rizkiaji@gmail.com">Email me!</a> 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I love learning new things and am always up for a challenge!
 
-
-### Stats:
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m Interested learning Data Science development </br>
-    - 🌱 I’m currently learning Javascript, Python, PHP and Sql </br>
-    - 👯 I’m looking to collaborate with you. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="jinkzprolimit@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-
-### 🚀 Languages and Tools:
-
+🚀 Languages and Tools:
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+ <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> </a> 
+ <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/microsoft-excel.png"/> </a> 
+ <a href="https://www.git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+ <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/tableau.png"/> </a> 
 </p>
 
-<br/>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkyjisantt&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjisantt&layout=compact" height=180 />
-</p>
-
-### Let's connect!
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/moch-rizki/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://mail.google.com/mail/?view=cm&fs=1&to=jinkzprolimit@gmail.com&su=SUBJECT&body=BODY&bcc=jinkzprolimit@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/circled-envelope.png" width="45"/></a>
-<a href = "https://www.instagram.com/rizky_jisantt/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<br/> 
+<p> 
+ <img src="https://github-readme-stats.vercel.app/api?username=rizkyjisantt&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjisantt&layout=compact" height=180 /> 
 </p>
