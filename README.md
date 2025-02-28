@@ -21,7 +21,12 @@ I’m also involved in various student activities and community service, with st
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> </a> 
- <a href="https://www.git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+ <a href="https://www.git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+ <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a> 
+ <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/canva.png"/> </a> 
 </p>
 
 <br/> 
