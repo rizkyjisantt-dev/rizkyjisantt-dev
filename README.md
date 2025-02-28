@@ -26,6 +26,6 @@ I’m also involved in various student activities and community service, with st
 
 <br/> 
 <p> 
- <img src="https://github-readme-stats.vercel.app/api?username=rizkyjisantt&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjisantt&layout=compact" height=180 /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=rizkyjisantt-dev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjisantt-dev&layout=compact" height=180 /> 
 </p>
