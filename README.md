@@ -8,7 +8,7 @@ I’m also involved in various student activities and community service, with st
 
 ### Stats:
 <summary><strong>What I am learning/working on these days</strong></summary> 
-- 🔭 Currently deepening my knowledge in Data Science and Machine Learning </br>
+- 🔭 Currently deepening my knowledge in Web Development, Data Science and Machine Learning </br>
 - 🌱 Learning more advanced Python techniques and exploring data visualization tools </br>
 - 👯 Looking to collaborate with professionals and like-minded individuals </br>
 - 🤔 Always seeking advice on improving my skills in the field of Data Science </br>
