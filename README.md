@@ -36,3 +36,18 @@ I’m also involved in various student activities and community service, with st
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkyjisantt-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkyjisantt-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+<h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35" width="50px"> Connect with me</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/moch-rizki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylix-eza-saputra-1bb1b7192" height="20" width="40" /></a>
+  <a href="https://instagram.com/rizky_jisantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_ylix" height="20" width="40" /></a>
+  <a href="https://t.me/rizkyluxszerr" target="_blank"><img align="center" alt="Telegram" height="20" width="40" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/telegram.svg" />
+  <a href="https://wa.me/6282131802771" target="_blank"><img align="center" alt="WhatsApp" height="20" width="40" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/whatsapp.svg" />
+</p><br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rizkyjisantt-dev">
+</a>
+<a href="https://github.com/rizkyjisantt-devt?tab=followers"><img src="https://img.shields.io/github/followers/nicola-alivant?label=Followers&style=social" alt="GitHub Badge"></a>
+
