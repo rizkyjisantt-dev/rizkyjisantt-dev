@@ -25,7 +25,14 @@ I’m also involved in various student activities and community service, with st
 </p>
 
 <br/> 
-<p> 
- <img src="https://github-readme-stats.vercel.app/api?username=rizkyjisantt-dev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjisantt-dev&layout=compact" height=180 /> 
-</p>
+<h2 align="left"><img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width = 48px> My Github Stats</h2>
+<p align="center">
+    <a href="https://github.com/rizkyjisantt-dev/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rizky Jisantt's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nicola-alivant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p> <br/>
+<p align="center">
+<a href="https://github.com/nicola-alivant">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkyjisantt-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkyjisantt-dev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
