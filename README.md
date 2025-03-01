@@ -20,10 +20,6 @@ I’m also involved in various student activities and community service, with st
 ### 🚀 Languages and Tools:
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
- <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas"/> </a> 
- <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy"/> </a> 
- <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib"/> </a> 
- <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Seaborn_logo.svg" width="48" height="48" alt="Seaborn"/> </a> 
  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/> </a> 
  <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras"/> </a> 
  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
@@ -34,11 +30,8 @@ I’m also involved in various student activities and community service, with st
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
  <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a> 
  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
- <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-r-programming-and-development-flat-flat-juicy-fish.png" alt="R"/> </a> 
  <a href="https://colab.research.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Google Colab"/> </a> 
- <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/microsoft-azure.png" alt="Microsoft Azure"/> </a> 
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/> </a> 
- <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-artificial-intelligence-robotics-flaticons-flat-flat-icons.png" alt="AI"/> </a> 
  <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/canva.png"/> </a> 
 </p>
 
