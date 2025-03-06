@@ -37,10 +37,7 @@ I’m also involved in various student activities and community service, with st
 
 <br/> 
 <h2 align="left"><img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width = 48px> My Github Stats</h2>
-<p align="center">
-    <a href="https://github.com/rizkyjisantt-dev/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rizky Jisantt's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyjisantt-dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+
 </p> <br/>
 <p align="center">
 <a href="https://github.com/rizkyjisantt-dev">
