@@ -48,11 +48,14 @@ I’m also involved in various student activities and community service, with st
 
 <h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35" width="50px"> Connect with me</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/moch-rizki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylix-eza-saputra-1bb1b7192" height="20" width="40" /></a>
-  <a href="https://instagram.com/rizky_jisantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_ylix" height="20" width="40" /></a>
-  <a href="https://t.me/rizkyluxszerr" target="_blank"><img align="center" alt="Telegram" height="20" width="40" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/telegram.svg" />
-  <a href="https://wa.me/6282131802771" target="_blank"><img align="center" alt="WhatsApp" height="20" width="40" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/whatsapp.svg" />
-</p><br/>
+  <a href="https://linkedin.com/in/moch-rizki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="40" /></a>
+  <a href="https://instagram.com/rizky_jisantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61574138372103" target="_blank"><img align="center" alt="Facebook" height="20" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+  <a href="https://t.me/rizkyluxszerr" target="_blank"><img align="center" alt="Telegram" height="20" width="40" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/telegram.svg" /></a>
+  <a href="https://wa.me/6282131802771" target="_blank"><img align="center" alt="WhatsApp" height="20" width="40" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/whatsapp.svg" /></a>
+
+</p>
+<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
