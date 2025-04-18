@@ -1,10 +1,12 @@
 # Hi there, I’m Mochammad Rizki Aji Santoso 👋
 
-I am a Data Analytics Enthusiast with a Bachelor's Degree in Informatics Engineering, actively seeking an entry-level position in Data Science or Machine Learning. I am proficient in Python, Excel, SQL, and machine learning techniques.
+Data Analytics Enthusiast with a Bachelor's Degree in Informatics Engineering, seeking an entry-level position in Data Science, Machine Learning, or Web Development.
 
-I’ve gained valuable experience through Data Analytics training programs offered by Kampus Merdeka and other external institutions. I am passionate about using data to solve real-world problems and help organizations make data-driven decisions.
+A results-driven Junior Data Scientist with hands-on experience in predictive modeling, data mining, and web development. Proficient in Python, SQL, and modern web technologies, with a strong focus on extracting meaningful insights from data and building efficient, user-friendly web applications.
 
-I’m also involved in various student activities and community service, with strong computer and communication skills. I am eager to contribute to a dynamic and innovative company where I can continue learning and growing.
+Gained practical experience through Data Analytics training programs under Kampus Merdeka and other external institutions. Passionate about solving real-world problems using data and supporting organizations in making data-driven decisions.
+
+Actively involved in student organizations and community service, with well-rounded technical and communication skills. Eager to contribute to a dynamic and innovative team environment where continuous learning and growth are encouraged.
 
 ### Stats:
 <summary><strong>What I am learning/working on these days</strong></summary> 
