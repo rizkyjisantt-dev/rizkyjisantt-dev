@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MOCHAMMAD%20RIZKI%20AJI%20SANTOSO&fontAlign=50&fontAlignY=38&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontSize=34" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Modern+Web+Development;AI+Automation+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Data+Engineer;Data+Analyst;AI%2FML+Developer;Web+Enthusiast;Social+Media+Enthusiast" />
 
 </div>
 
@@ -141,23 +141,6 @@ Currently Learning:
 <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-| 🌌 AI Portfolio Website | Futuristic personal portfolio website with modern UI/UX | HTML, CSS, JS |
-| ⚽ Sports News Crawler | Automated football news crawling and analytics system | Python |
-| 📊 AFF 2020 Sentiment Analysis | Sentiment analysis using machine learning algorithms | Python, Scikit-Learn |
-| 🏛 Sunan Drajat Tourism Website | Responsive tourism information platform | PHP, Bootstrap |
-| 🤖 AI Automation Projects | AI agents and workflow automation systems | Python |
-| 📈 Data Analytics Dashboard | Interactive business intelligence dashboard | Python, MySQL |
 
 </div>
 
