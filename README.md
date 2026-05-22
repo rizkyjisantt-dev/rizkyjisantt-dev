@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MOCHAMMAD%20RIZKI%20AJI%20SANTOSO&fontAlign=50&fontAlignY=38&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontSize=34&desc=AI%20Developer%20•%20Data%20Scientist%20•%20Futuristic%20Web%20Designer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MOCHAMMAD%20RIZKI%20AJI%20SANTOSO&fontAlign=50&fontAlignY=38&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontSize=34" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Modern+Web+Development;AI+Automation+Systems" />
 
