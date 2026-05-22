@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=MOCHAMMAD+RIZKY+AJI+SANTOSO;AI+Developer+%7C+Data+Scientist;Machine+Learning+Enthusiast;Futuristic+Web+Designer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MOCHAMMAD%20RIZKY%20AJI%20SANTOSO&fontAlign=50&fontAlignY=38&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontSize=34&desc=AI%20Developer%20•%20Data%20Scientist%20•%20Futuristic%20Web%20Designer&descAlignY=58&descSize=18" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=RIZFOLIO%20AI%20STUDIO&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontSize=42" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Modern+Web+Development;AI+Automation+Systems" />
 
 </div>
 
@@ -10,46 +10,79 @@
 
 # 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ```yaml
-Name: Mochammad Rizky Aji Santoso
+Name: Mochammad Rizki Aji Santoso
 Location: Lamongan, East Java, Indonesia
+
+Education:
+  - Informatics Engineering
+
 Focus:
   - Artificial Intelligence
   - Data Science
   - Machine Learning
   - Web Development
+  - AI Automation
 
 Currently Learning:
   - AI Agents
   - Advanced Python
   - Data Visualization
-  - Modern Frontend Development
-
-Portfolio:
-  - AI Portfolio Website
-  - Sentiment Analysis
-  - Sports News Crawling
-  - Tourism Website
+  - Modern Frontend
+  - Cloud Computing
 ```
 
 🚀 Passionate about building intelligent systems and futuristic digital experiences.
 
-🧠 Enthusiastic in:
-- Artificial Intelligence
-- Data Science
+💡 Results-driven junior AI & Data enthusiast with hands-on experience in:
+- Predictive Modeling
+- Data Analytics
+- Web Development
 - Machine Learning
-- Predictive Analytics
-- Modern Web Development
+- Data Visualization
 
-💡 Always exploring new technologies and continuously improving technical skills to solve real-world problems using data-driven solutions.
+⚡ Always learning new technologies and improving problem-solving skills through real-world projects.
 
 ---
 
-# ⚡ Tech Stack
+# 🧠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,html,css,javascript,php,bootstrap,git,vscode,firebase,gcp" />
+## Backend & Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/><br/>
+
+## AI & Machine Learning
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<br/><br/>
+
+## Frontend & Design
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+<br/><br/>
+
+## Tools & Cloud
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
@@ -59,52 +92,54 @@ Portfolio:
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| 🌌 AI Portfolio Website | Futuristic portfolio website with modern UI/UX |
-| ⚽ Sports News Crawler | Automated football news data crawling system |
-| 📊 AFF 2020 Sentiment Analysis | Public sentiment analysis using machine learning |
-| 🏛 Sunan Drajat Tourism Website | Tourism information platform |
-| 🤖 AI Automation Projects | AI agents and workflow automation |
-| 📈 Data Analytics Dashboard | Interactive analytics dashboard |
+| Project | Description | Tech |
+|---|---|---|
+| 🌌 AI Portfolio Website | Futuristic personal portfolio website with modern UI/UX | HTML, CSS, JS |
+| ⚽ Sports News Crawler | Automated football news crawling and analytics system | Python |
+| 📊 AFF 2020 Sentiment Analysis | Sentiment analysis using machine learning algorithms | Python, Scikit-Learn |
+| 🏛 Sunan Drajat Tourism Website | Responsive tourism information platform | PHP, Bootstrap |
+| 🤖 AI Automation Projects | AI agents and workflow automation systems | Python |
+| 📈 Data Analytics Dashboard | Interactive business intelligence dashboard | Python, MySQL |
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizkyjisantt-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizkyjisantt-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=00FFFF"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyjisantt-dev&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyjisantt-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=00FFFF&currStreakLabel=8A2BE2"/>
 
 </div>
 
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjisantt-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-# 📊 Contribution Graph
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkyjisantt-dev&bg_color=0d1117&color=8a2be2&line=00ffff&point=ffffff&area=true&hide_border=true" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjisantt-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rizkyjisantt-dev/rizkyjisantt-dev/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkyjisantt-dev&bg_color=0d1117&color=8A2BE2&line=00FFFF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rizkyjisantt-dev&theme=discord&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -144,7 +179,7 @@ Portfolio:
 
 <img src="https://komarev.com/ghpvc/?username=rizkyjisantt-dev&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/rizkyjisantt-dev?style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/rizkyjisantt-dev?style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -158,27 +193,37 @@ Portfolio:
 
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
 
-<img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python"/>
-
 <img src="https://img.shields.io/badge/Focus-AI%20Engineering-purple?style=for-the-badge"/>
 
-</div>
-
----
-
-# 🎧 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31h3k53x5k3s2r3m0c3s4zj3w5hu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8a2be2&bar_color_cover=false" />
+<img src="https://img.shields.io/badge/Learning-Machine%20Learning-8A2BE2?style=for-the-badge"/>
 
 </div>
 
 ---
 
+# 🎵 Spotify Playing
+
 <div align="center">
 
-### ⚡ "Building futuristic digital experiences powered by AI"
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31h3k53x5k3s2r3m0c3s4zj3w5hu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8A2BE2&bar_color_cover=false"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rizkyjisantt-dev/rizkyjisantt-dev/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building futuristic digital experiences powered by AI
 
 </div>
 
