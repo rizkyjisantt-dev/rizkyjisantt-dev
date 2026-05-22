@@ -243,44 +243,6 @@ Currently Learning:
 
 ---
 
-# 💻 Workspace
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows"/>
-
-<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Learning-Machine%20Learning-8A2BE2?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31h3k53x5k3s2r3m0c3s4zj3w5hu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8A2BE2&bar_color_cover=false"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rizkyjisantt-dev/rizkyjisantt-dev/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### ⚡ Building futuristic digital experiences powered by AI
 
 </div>
