@@ -22,26 +22,26 @@ Education:
 Focus:
   - Artificial Intelligence
   - Data Science
-  - Machine Learning
   - Web Development
-  - AI Automation
+  - Social Media Spesialist
 
 Currently Learning:
-  - AI Agents
-  - Advanced Python
-  - Data Visualization
-  - Modern Frontend
-  - Cloud Computing
+  - Data Engineering
+  - Machine Learning & AI Development
+  - Full Stack Web Development
+  - Data Analytics & Visualization
+  - AI Automation Systems
 ```
 
 🚀 Passionate about building intelligent systems and futuristic digital experiences.
 
-💡 Results-driven junior AI & Data enthusiast with hands-on experience in:
-- Predictive Modeling
+💡 Passionate AI & Data enthusiast with hands-on experience in:
+- Data Engineering
 - Data Analytics
+- AI & Machine Learning
 - Web Development
-- Machine Learning
 - Data Visualization
+- Automation Systems
 
 ⚡ Always learning new technologies and improving problem-solving skills through real-world projects.
 
